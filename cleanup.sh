@@ -11,4 +11,4 @@ kill_xvfb () {
     fi
 }
 
-kill_xvfb || true
+#kill_xvfb || true
